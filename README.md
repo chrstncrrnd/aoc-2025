@@ -10,3 +10,5 @@ Day 3: Java
 Day 4: Rust
 
 Day 5: Rust
+
+Day 6: Rust & Python
