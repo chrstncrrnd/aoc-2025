@@ -1,7 +1,7 @@
 file = open("input.txt")
 text = file.read().splitlines()[0]
 print("Day 2, part two")
-
+file.close()
 def valid(number):
     number = str(number)
     n = len(number)

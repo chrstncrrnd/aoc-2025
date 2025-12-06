@@ -4,7 +4,7 @@ print("Day one advent of code 2025 (part two)!")
 file = open("input.txt")
 
 puzzleInput = file.read().splitlines()
-
+file.close()
 
 pointing = 50
 password = 0
