@@ -12,3 +12,5 @@ Day 4: Rust
 Day 5: Rust
 
 Day 6: Rust & Python
+
+Day 7: Rust
