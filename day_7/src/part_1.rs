@@ -9,7 +9,7 @@ pub fn main(){
     let mut intersections = 0;
 
 
-    for line in lines{
+    for line in lines.iter(){
         for (i, c) in line.chars().enumerate(){
             if c == '^' && beams[i] == 1{
                 if i > 0{
