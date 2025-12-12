@@ -66,9 +66,7 @@ def handle_add_to_connections(conn):
 out = 1
 
 for i in range(len(distances)):
-    print((i/1000) * 100, "%")
     dist = distances.pop()
-    print(dist.distance)
     conn_to_add = [dist.vec_i, dist.vec_j]
     handle_add_to_connections(conn_to_add)
     if len(connections) == 1:
