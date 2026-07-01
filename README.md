@@ -14,3 +14,7 @@ Day 5: Rust
 Day 6: Rust & Python
 
 Day 7: Rust
+
+Day 8: Python
+
+Day 9: C++
